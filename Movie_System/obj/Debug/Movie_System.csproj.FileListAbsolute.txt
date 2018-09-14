@@ -1,0 +1,14 @@
+D:\Frank\program\Movie_System\Movie_System\bin\Debug\Movie_System.exe.config
+D:\Frank\program\Movie_System\Movie_System\obj\Debug\Movie_System.csprojResolveAssemblyReference.cache
+D:\Frank\program\Movie_System\Movie_System\obj\Debug\Movie_System.Form1.resources
+D:\Frank\program\Movie_System\Movie_System\obj\Debug\Movie_System.Form2.resources
+D:\Frank\program\Movie_System\Movie_System\obj\Debug\Movie_System.Properties.Resources.resources
+D:\Frank\program\Movie_System\Movie_System\obj\Debug\Movie_System.csproj.GenerateResource.Cache
+D:\Frank\program\Movie_System\Movie_System\bin\Debug\Movie_System.exe
+D:\Frank\program\Movie_System\Movie_System\bin\Debug\Movie_System.pdb
+D:\Frank\program\Movie_System\Movie_System\obj\Debug\Movie_System.exe
+D:\Frank\program\Movie_System\Movie_System\obj\Debug\Movie_System.pdb
+D:\Frank\program\Movie_System\Movie_System\obj\Debug\Movie_System.frmMain.resources
+D:\Frank\program\Movie_System\Movie_System\obj\Debug\Movie_System.frmPasswordChange.resources
+D:\Frank\program\Movie_System\Movie_System\obj\Debug\Movie_System.frmLog.resources
+D:\Frank\program\Movie_System\Movie_System\obj\Debug\Movie_System.frmRegistration.resources
